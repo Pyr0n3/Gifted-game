@@ -5,7 +5,7 @@ public class scr : MonoBehaviour
 {
     public Rigidbody2D rb;
     private float speed = 1000f;
-    private float jumpSpeed = 400000f;
+    private float jumpSpeed = 275000f;
 
     void Update()
     {
